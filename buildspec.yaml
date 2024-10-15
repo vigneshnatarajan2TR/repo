@@ -1,4 +1,4 @@
-#creating buildspec.ymal
+#creating buildspec.ymal.
 version: 0.2
 
 phases:
